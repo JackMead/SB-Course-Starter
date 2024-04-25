@@ -8,6 +8,6 @@ variable "OAUTH_CLIENT_SECRET" {
 }
 
 variable "AZURE_SAS_TOKEN" {
-    # azure_sas_token="abc123asd123dasda"
+    # azure_search_query_key="abc123asd123dasda"
 }
 
